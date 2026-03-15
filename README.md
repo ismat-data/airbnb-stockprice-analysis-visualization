@@ -167,7 +167,7 @@ Airbnb-Stock-Analysis
 │
 ├── Airbnb-Stock-EDA.ipynb        # Python exploratory data analysis
 ├── airbnb-stock-dashboard.pbix   # Power BI visualization dashboard
-├── dataset.csv                   # Stock price dataset
+├── airbnb.csv                   # Stock price dataset
 └── README.md                     # Project documentation
 ```
 
